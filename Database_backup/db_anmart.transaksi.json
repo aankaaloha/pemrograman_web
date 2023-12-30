@@ -1,0 +1,21 @@
+[{
+  "_id": "1",
+  "pembeli_id": "1",
+  "barang_id": "1",
+  "tanggal": "2023-12-14",
+  "jumlah": "2"
+},
+{
+  "_id": "2",
+  "pembeli_id": "2",
+  "barang_id": "2",
+  "tanggal": "2023-12-13",
+  "jumlah": "8"
+},
+{
+  "_id": "3",
+  "pembeli_id": "3",
+  "barang_id": "3",
+  "tanggal": "2023-12-08",
+  "jumlah": "5"
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": "1",
+  "nama": "Wafik",
+  "jenis_kelamin": "Laki-laki",
+  "alamat": "Tahunan",
+  "no_telp": "087635364343"
+},
+{
+  "_id": "2",
+  "nama": "Aan",
+  "jenis_kelamin": "Laki-laki",
+  "alamat": "Jepara",
+  "no_telp": "089536525688"
+},
+{
+  "_id": "3",
+  "nama": "Dandy",
+  "jenis_kelamin": "Laki-laki",
+  "alamat": "Mlonggo",
+  "no_telp": "098777635665"
+}]

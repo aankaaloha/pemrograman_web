@@ -1,0 +1,21 @@
+[{
+  "_id": "1",
+  "nama_barang": "Minyak Sunco 1 Liter",
+  "satuan": "Liter",
+  "stok": "10",
+  "harga": "25000"
+},
+{
+  "_id": "2",
+  "nama_barang": "Shampo Clear",
+  "satuan": "Mili Liter",
+  "stok": "10",
+  "harga": "10000"
+},
+{
+  "_id": "3",
+  "nama_barang": "Sabun Lifeboy Cair",
+  "satuan": "Mili Liter",
+  "stok": "50",
+  "harga": "6000"
+}]
